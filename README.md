@@ -28,4 +28,4 @@ SwipeCardView是一个优雅的刷脸控件，滑动刷脸伴随渐变层叠动�
 ![image](https://github.com/vson1718/SwipeCardView/blob/master/QQ20191013-101758-HD.gif)
 
 ## About me
-微博：[@小小果农](https://blog.csdn.net/qq_22863121) 
+CSND：[@小小果农](https://blog.csdn.net/qq_22863121) 
